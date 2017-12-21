@@ -1,0 +1,1 @@
+ths is my vim text file这是我的vim创建的文本文件 
